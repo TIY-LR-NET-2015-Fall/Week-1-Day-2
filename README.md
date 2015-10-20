@@ -2,7 +2,7 @@
 Loopers and Switchers
 
 
-Day 2 Assignment
+Assignment
 =========
 
 How To Submit?
